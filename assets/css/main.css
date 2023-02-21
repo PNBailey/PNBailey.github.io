@@ -2280,8 +2280,8 @@ button,
     }
 
 .get-in-touch-section {
-  position: fixed;
-  max-width: 317px;
+  position: sticky;
+  top: 0px;
 }
 
 .blogs {
