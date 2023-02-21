@@ -2272,10 +2272,10 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-
-  .Javascript-Logo {
-    margin-top: 5px;
-  }
+    .net-core-icon {
+      max-width: 100px;
+      max-height: 100px;
+    }
 
 
 
