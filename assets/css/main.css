@@ -2281,9 +2281,7 @@ button,
 
 .get-in-touch-section {
   position: fixed;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  max-width: fit-content;
 }
 
 .blogs {
