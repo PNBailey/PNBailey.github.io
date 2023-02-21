@@ -2140,7 +2140,7 @@ button,
     margin: 0 0 2em 4em;
     width: 50%; }
     #banner .image img {
-      height: 65%;
+      height: 85%;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
@@ -2280,9 +2280,7 @@ button,
     }
 
 .get-in-touch-section {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0px;
+  position: fixed;
 }
 
 .blogs {
