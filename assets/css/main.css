@@ -2284,5 +2284,9 @@ button,
   top: 0px;
 }
 
+.image object {
+  max-height: 320px;
+}
+
 
   
