@@ -2275,9 +2275,12 @@ button,
     .net-core-icon {
       max-width: 80px;
       max-height: 80px;
+      padding-top: 10px;
     }
 
-
+.get-in-touch-section {
+  position: fixed;
+}
 
 
   
