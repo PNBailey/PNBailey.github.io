@@ -2288,5 +2288,15 @@ button,
   max-height: 320px;
 }
 
+.blogs {
+  display: flex;
+  justify-content: center;
+  max-width: 580px;
+}
+
+.blogs > article {
+  flex: 1;
+}
+
 
   
