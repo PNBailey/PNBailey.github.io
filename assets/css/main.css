@@ -2291,7 +2291,7 @@ button,
 .blogs {
   display: flex;
   justify-content: center;
-  max-width: 580px;
+  max-width: 480px;
 }
 
 .blogs > article {
