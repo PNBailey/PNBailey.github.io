@@ -2287,6 +2287,7 @@ button,
 
 .blogs {
   display: flex;
+  flex: 1;
   justify-content: center;
-  padding: 40px 0px;
+  /* padding: 40px 0px; */
 }
