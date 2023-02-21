@@ -2285,6 +2285,9 @@ button,
 
 .blogs {
   display: flex;
-  flex: 1;
   justify-content: center;
+}
+
+.blog {
+  flex: 1;
 }
